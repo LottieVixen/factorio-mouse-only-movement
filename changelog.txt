@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 26.09.2021
+  Changes:
+    - Updated control.lua and info.json to work with Factorio 1.1
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 11.07.2020
+  Changes:
+    - Fixed the minimum and maximum value of the timeout setting
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 02.02.2020
+  Changes:
+    - Upgraded to Factorio 0.18
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 06.01.2020
+  Features:
+    - Made the cursor reset work with ghosts
+    - Added a configurable timeout for the reset, to prevent using or building items with the same click as you used to move.
+  Known issues:
+    - The cursor reset will give you the first matching item (by name) in your inventory. This may cause the wrong item to be returned when using it with blueprints, upgrade planners, power armors, etc.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 06.01.2020
+  Features:
+    - Resets the cursor to what was in it before you started moving
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 03.07.2019
+  Features:
+    - Initial release.

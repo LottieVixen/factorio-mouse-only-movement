@@ -1,0 +1,13 @@
+{
+  "name": "move-with-mouse",
+  "version": "1.0.0",
+  "title": "Move with the mouse",
+  "author": ["Jorn86","LottieVixen"],
+  "homepage": "https://github.com/LottieVixen/factorio-mouse-only-movement",
+  "contact": "",
+  "description": "Allows you to move your player character using the mouse, instead of WASD keys",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.41"
+  ]
+}
